@@ -1,0 +1,4 @@
+Timestamp,Vibration,Slope,Weather,Risk
+12:00:01,0.4,44,Sunny,35
+12:00:02,0.6,47,Rainy,62
+12:00:03,0.55,46,Cloudy,85
